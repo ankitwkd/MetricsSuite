@@ -1,0 +1,1 @@
+[{"projectName": "", "preferredLanguage": "C", "vafValues": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0], "vafCount": 5, "inputs": ["2", "3", "2", "4", "5"], "outputs": [8, 15, 8, 40, 35], "weights": [4, 5, 4, 10, 7], "inputTotal": 106, "computedFP": 74.2, "codeSize": 5936.0, "tabName": "Untitled", "currLang": "COBOL"}]

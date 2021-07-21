@@ -1,0 +1,1 @@
+[{"projectName": "hh", "preferredLanguage": "C", "vafValues": [1, 3, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "vafCount": 10, "inputs": ["2", "3", "4", "1", "22"], "outputs": [8, 15, 16, 10, 154], "weights": [4, 5, 4, 10, 7], "inputTotal": 203, "computedFP": 152.25, "codeSize": 22533.0, "tabName": "Untitled1"}]

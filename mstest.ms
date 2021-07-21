@@ -1,0 +1,1 @@
+[{"projectName": "testing", "preferredLanguage": "C", "vafValues": [], "vafCount": 0, "inputs": ["1", "2", "3", "4", "5"], "outputs": [4, 10, 12, 40, 35], "weights": [4, 5, 4, 10, 7], "inputTotal": 101, "computedFP": 65.65, "codeSize": 9716.2, "tabName": "123", "currLang": "C"}]

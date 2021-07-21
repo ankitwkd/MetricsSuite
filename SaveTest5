@@ -1,0 +1,1 @@
+{"projectName": "123", "preferredLanguage": "", "vafValues": [1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "vafCount": 0, "inputs": ["2", "3", "4", "5", "2"], "outputs": [8, 12, 24, 35, 20], "weights": [4, 4, 6, 7, 10], "inputTotal": 99, "computedFP": 64.35, "tabNames": ["abc1"]}

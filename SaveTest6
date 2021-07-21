@@ -1,0 +1,1 @@
+{"projectName": "ProjectX", "preferredLanguage": "C", "vafValues": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "vafCount": 3, "inputs": ["20", "30", "40", "20", "25"], "outputs": [60, 210, 160, 300, 125], "weights": [3, 7, 4, 15, 5], "inputTotal": 855, "computedFP": 581.4, "tabNames": ["Test1"]}

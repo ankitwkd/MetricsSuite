@@ -1,0 +1,1 @@
+[{"type": "FP", "projectName": "fptest", "preferredLanguage": "C", "vafValues": [], "vafCount": 0, "inputs": ["2", "3", "4", "5", "6"], "outputs": [8, 15, 16, 50, 42], "weights": [4, 5, 4, 10, 7], "inputTotal": 131, "computedFP": 85.15, "codeSize": 12602, "tabName": "1", "currLang": "C", "tcfValues": [], "tcfCount": []}]
